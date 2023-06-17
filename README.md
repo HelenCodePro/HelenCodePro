@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @HelenCodePro
+- 👀 I’m interested in Web3 coding
+- 🌱 I’m currently learning Solidity and Python for scripts coding
+- 💞️ I’m looking to collaborate on Web3 with another devs
+- 📫 How to reach me:
+  - Discord: HelenPromes#0269
+  - Twitter: [H_Pormes](https://twitter.com/H_Pormes)
+
+<!---
+HelenCodePro/HelenCodePro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
